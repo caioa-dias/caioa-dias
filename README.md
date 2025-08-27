@@ -1,16 +1,94 @@
-## Hi there 👋
+# ✈️ Caio Augusto Dias
 
-<!--
-**caioa-dias/caioa-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aeronautical Engineering`** **`MSc Student @ USP`** **`ML & Optimization`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: justify">
+My name is Caio Dias, I am a Master's student in Mechanical Engineering (Aeronautics) at the University of São Paulo (EESC-USP). I hold a Bachelor's degree in Mechanical Engineering from the Amazonas State University (UEA). I specialize in the application of Machine Learning and Optimization techniques to solve complex engineering problems, particularly in the field of aircraft design.
+</div>
+
+---
+
+### 🤖 Languages and Tools
+
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img
+    align="left"
+    alt="MATLAB"
+    title="MATLAB"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+/>
+<img
+    align="left"
+    alt="R"
+    title="R"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Keras"
+    title="Keras"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
+/>
+<img
+    align="left"
+    alt="PyTorch"
+    title="PyTorch"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+/>
+<img
+    align="left"
+    alt="TensorFlow"
+    title="TensorFlow"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Statistics
+
+<p>
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=caioa-dias&show_icons=true&theme=tokyonight&include_all_commits=true"
+    />
+
+<img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioa-dias&theme=tokyonight&layout=compact&custom_title=Tools&langs_count=6"
+    />
+
+</p>
