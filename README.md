@@ -71,24 +71,3 @@ My name is Caio Dias, I am a Master's student in Mechanical Engineering (Aeronau
 
 <br/>
 <br/>
-
-### 📊 Statistics
-
-<p>
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=caioa-dias&show_icons=true&theme=tokyonight&include_all_commits"
-    />
-
-<img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioa-dias&theme=tokyonight&layout=compact&custom_title=Tools&langs_count=6"
-    />
-
-</p>
