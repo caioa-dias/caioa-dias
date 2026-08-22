@@ -1,15 +1,15 @@
 # ✈️ Caio Augusto Dias
 
-**`Aeronautical Engineering`** **`MSc Student @ USP`** **`ML & Optimization`**
+**`MSc Student @ USP`** **`Aeronautical Engineering`** **`Experimental & Data-Driven Aerodynamics`** **`ML & Optimization`**
 
 
 <div style="text-align: justify">
-My name is Caio Dias, I am a Master's student in Mechanical Engineering (Aeronautics) at the University of São Paulo (EESC-USP). I hold a Bachelor's degree in Mechanical Engineering from the Amazonas State University (UEA). I specialize in the application of Machine Learning and Optimization techniques to solve complex engineering problems, particularly in the field of aircraft design.
+Master's student in Mechanical Engineering, with a focus on Aeronautics, at the University of São Paulo (EESC-USP), with international experience as Visiting Researcher at the Department of Flow Physics and Technology at the Delft University of Technology (TU Delft). Conducts research at the Aerodynamics Laboratory (LAE-USP) as a FAPESP-funded graduate student, investigating the application of Machine Learning techniques to reduce development costs and optimize aircraft design. Has experience with Python and MATLAB for developing Machine Learning, Artificial Intelligence, and Optimization Methods applied to engineering, as well as experience in wind tunnel testing, conducting aerodynamic and aeroacoustic experimental campaigns. Strong focus on applying engineering and data-driven approaches to deliver efficient and innovative solutions.
 </div>
 
 ---
 
-### 🤖 Languages and Tools
+### ⚙️ Languages and Tools
 
 
 <img
@@ -38,19 +38,27 @@ My name is Caio Dias, I am a Master's student in Mechanical Engineering (Aeronau
 />
 <img
     align="left"
-    alt="Git"
-    title="Git"
+    alt="NumPy"
+    title="NumPy"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
 <img
     align="left"
-    alt="Keras"
-    title="Keras"
+    alt="Pandas"
+    title="Pandas"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+<img
+    align="left"
+    alt="Scikit-learn"
+    title="Scikit-learn"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
 <img
     align="left"
@@ -67,6 +75,38 @@ My name is Caio Dias, I am a Master's student in Mechanical Engineering (Aeronau
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+/>
+<img
+    align="left"
+    alt="Keras"
+    title="Keras"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
+/>
+<img
+    align="left"
+    alt="Jupyter"
+    title="Jupyter"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
 <br/>
